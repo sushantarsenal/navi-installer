@@ -1,0 +1,7 @@
+#!/usr/bin/ruby
+
+if ARGV[0] == "1"
+  puts "You have entered " << ARGV[0]
+else
+  puts "Please put the parameter."
+end
